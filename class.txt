@@ -7,7 +7,13 @@ Charcoal
 Khaki
 Coral
 Silver
-Fuchsia
-Purple
-Brown
-Red
+FuchsiaCrimson
+Ornage
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fushia
